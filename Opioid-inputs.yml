@@ -1,0 +1,132 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/opioid-phosphate---primary.py
+inputModule3:
+  class: File
+  path: python/opioid-paracet---primary.py
+inputModule4:
+  class: File
+  path: python/opioid-cocodamol---primary.py
+inputModule5:
+  class: File
+  path: python/opioid-tablet---primary.py
+inputModule6:
+  class: File
+  path: python/opioid-kapake---primary.py
+inputModule7:
+  class: File
+  path: python/opioid-codipar---primary.py
+inputModule8:
+  class: File
+  path: python/opioid-capsule---primary.py
+inputModule9:
+  class: File
+  path: python/effervescent-opioid---primary.py
+inputModule10:
+  class: File
+  path: python/opioid-codeine---primary.py
+inputModule11:
+  class: File
+  path: python/opioid-caplet---primary.py
+inputModule12:
+  class: File
+  path: python/opioid-solpadeine---primary.py
+inputModule13:
+  class: File
+  path: python/opioid-solpadol---primary.py
+inputModule14:
+  class: File
+  path: python/opioid-forte---primary.py
+inputModule15:
+  class: File
+  path: python/opioid-tylex---primary.py
+inputModule16:
+  class: File
+  path: python/opioid-remedeine---primary.py
+inputModule17:
+  class: File
+  path: python/opioid-zapain---primary.py
+inputModule18:
+  class: File
+  path: python/opioid-headache---primary.py
+inputModule19:
+  class: File
+  path: python/opioid-375mg---primary.py
+inputModule20:
+  class: File
+  path: python/opioid-morphine---primary.py
+inputModule21:
+  class: File
+  path: python/analgesic-opioid---primary.py
+inputModule22:
+  class: File
+  path: python/opioid-buprenorphine---primary.py
+inputModule23:
+  class: File
+  path: python/opioid-dextromoramide---primary.py
+inputModule24:
+  class: File
+  path: python/opioid---primary.py
+inputModule25:
+  class: File
+  path: python/opioid-tartrate---primary.py
+inputModule26:
+  class: File
+  path: python/opioid-hydrochlor---primary.py
+inputModule27:
+  class: File
+  path: python/opioid-tramadol---primary.py
+inputModule28:
+  class: File
+  path: python/opioid-tapentadol---primary.py
+inputModule29:
+  class: File
+  path: python/opioid-meptazinol---primary.py
+inputModule30:
+  class: File
+  path: python/opioid-nalbuphine---primary.py
+inputModule31:
+  class: File
+  path: python/opioid-papaveretum---primary.py
+inputModule32:
+  class: File
+  path: python/opioid-pentazocine---primary.py
+inputModule33:
+  class: File
+  path: python/opioid-pethidine---primary.py
+inputModule34:
+  class: File
+  path: python/opioid-oxycodone---primary.py
+inputModule35:
+  class: File
+  path: python/opioid-duopack---primary.py
+inputModule36:
+  class: File
+  path: python/opioid-migraleve---primary.py
+inputModule37:
+  class: File
+  path: python/yellow-opioid---primary.py
+inputModule38:
+  class: File
+  path: python/opioid-migravess---primary.py
+inputModule39:
+  class: File
+  path: python/opioid-ibupro---primary.py
+inputModule40:
+  class: File
+  path: python/opioid-alfentanil---primary.py
+inputModule41:
+  class: File
+  path: python/opioid-fentanyl---primary.py
+inputModule42:
+  class: File
+  path: python/opioid-anaesth---primary.py
+inputModule43:
+  class: File
+  path: python/opioid-remifentanil---primary.py
+inputModule44:
+  class: File
+  path: python/output-cases.py
